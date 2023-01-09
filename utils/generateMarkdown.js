@@ -62,7 +62,7 @@ function renderLicenseSection(license) {
 function generateMarkdown(data) {
   return `# ${data.title}
 
-	${renderLicenseBadge(data.license)}
+${renderLicenseBadge(data.license)}
 
 ## Description
 
@@ -106,6 +106,7 @@ ${data.test}
 ## Questions
 
 For questions please email: ${data.email}
+
 Visit my github: [${data.github}](https://www.github.com/${data.github})
 
 `;
