@@ -1,23 +1,45 @@
-GIVEN a command-line application that accepts user input
+# README.md Generator	
+
+## Description
+
+This project uses npm package 'Inquirer' to gather input from the user in order to generate a README.md file.
 
 
-WHEN I am prompted for information about my application repository
-THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
 
-WHEN I enter my project title
-THEN this is displayed as the title of the README
+## Table of Contents
 
-WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions
-THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
+* [Installation](#installation)
 
-WHEN I choose a license for my application from a list of options
-THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
+* [Usage](#usage)
 
-WHEN I enter my GitHub username
-THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
+* [License](#license)
 
-WHEN I enter my email address
-THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
+* [Contributing](#contributing)
 
-WHEN I click on the links in the Table of Contents
-THEN I am taken to the corresponding section of the README
+* [Tests](#tests)
+
+* [Questions](#questions)
+
+## Installation
+
+Clone the project and run 'npm i' in the main working directory.
+
+## Usage
+
+To test the readme genereator run 'node index.js' from the main working directory and then follow the prompts.
+
+## License
+
+No license
+
+## Contributing
+
+No contribution allowed on this repo, if you would like to work on this project please feel free to fork it.
+
+## Tests
+
+no tests for this project
+
+## Questions
+
+For questions please open an issue on this repo
