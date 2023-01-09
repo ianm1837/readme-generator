@@ -12,8 +12,6 @@ This project uses npm package 'Inquirer' to gather input from the user in order 
 
 * [Usage](#usage)
 
-* [License](#license)
-
 * [Contributing](#contributing)
 
 * [Tests](#tests)
