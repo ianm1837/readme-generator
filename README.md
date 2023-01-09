@@ -4,7 +4,7 @@
 
 This project uses npm package 'Inquirer' to gather input from the user in order to generate a README.md file.
 
-
+[Link to demonstration video](https://youtu.be/iUCa3Z-AoRY)
 
 ## Table of Contents
 
@@ -35,10 +35,6 @@ No license
 ## Contributing
 
 No contribution allowed on this repo, if you would like to work on this project please feel free to fork it.
-
-## Tests
-
-no tests for this project
 
 ## Questions
 
